@@ -7,4 +7,6 @@ datasets can be found here
 https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
 and should be dropped into the 'database' folder
 
+if you want to utilize the save/load functionality, create an empty 'models' folder
+
 have fun
